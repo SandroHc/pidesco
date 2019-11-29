@@ -1,0 +1,3 @@
+[submodule "pt.iscte.pidesco.minimap"]
+	path = pt.iscte.pidesco.minimap
+	url = https://github.com/SandroHc/pidesco-minimap
